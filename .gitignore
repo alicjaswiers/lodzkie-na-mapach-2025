@@ -1,0 +1,25 @@
+# 1. Pliki tymczasowe i kopie zapasowe QGIS
+*~
+*.qgs~
+*.qgz~
+*.tmp
+*.bak
+
+# 2. Pliki blokady
+*.lock
+.~lock.*
+*.sr-lock
+
+# 3. Ukryte pliki systemowe 
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# 4. Pliki konfiguracyjne 
+*.qgs.user
+*.qml~
+
